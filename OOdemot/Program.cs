@@ -1,4 +1,6 @@
-﻿using JAMK.IT; //helpottaa meidän tekemien luokkien löytämistä
+﻿//TTOS200 Olio-ohjelmointi viikkotehtävät
+//Teo Häkkinen
+using JAMK.IT; //helpottaa meidän tekemien luokkien löytämistä
 using System;
 
 namespace OOdemot
