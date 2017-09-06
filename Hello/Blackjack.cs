@@ -19,7 +19,7 @@ namespace Hello
                 theirNumber = System.Convert.ToInt32(System.Console.ReadLine());
                 if (theirNumber < 1 || theirNumber > 21)
                 {
-                    Console.WriteLine("The given number is out of limits, try again.");
+                    Console.WriteLine("The given number is out of limits, game over.");
                     break;
                 }
                 else
