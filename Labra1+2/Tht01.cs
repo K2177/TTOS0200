@@ -2,15 +2,14 @@
 
 namespace Labra1_2
 {
-    class Tehtava1
+    class Tht01
     {
-        public static void Main()
+        public static void Tehtava1()
         {
-            // Tee ohjelma, joka tulostaa käyttäjän antamaa lukua (1, 2 tai 3) vastaavan luvun sanana (yksi, kaksi tai kolme).
-            // Jos käyttäjä syöttää jonkin muun luvun, tulee näytölle tulostaa teksti: "joku muu luku".
+            // Tee ohjelma, joka tulostaa käyttäjän antamaa lukua (1, 2 tai 3) vastaavan luvun sanana (yksi, kaksi tai kolme). Jos käyttäjä syöttää jonkin muun luvun, tulee näytölle tulostaa teksti: "joku muu luku".
 
             Console.WriteLine("Anna luku: ");
-            int luku = Convert.ToInt32(Console.ReadLine());
+            int luku = int.Parse(Console.ReadLine());
             if (luku == 1)
             {
                 Console.WriteLine("Annoit luvun yksi");

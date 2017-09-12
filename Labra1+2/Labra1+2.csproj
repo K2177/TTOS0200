@@ -45,6 +45,9 @@
     <Compile Include="Tht01.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tht02.cs" />
+    <Compile Include="Tht03.cs" />
+    <Compile Include="Tht04.cs" />
+    <Compile Include="Tht05.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
