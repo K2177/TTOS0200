@@ -6,7 +6,7 @@ namespace Labra1_2
 {
     class Tht09
     {
-        public static void Main()
+        public static void Tehtava9()
         {
             // Tee ohjelma, joka kysyy käyttäjältä lukuja, kunnes hän syöttää luvun 0. Ohjelman tulee tulostaa syötettyjen lukujen summa.
 
