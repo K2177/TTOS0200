@@ -13,7 +13,7 @@ namespace Labra1_2
             int h = sek / 3600;
             int m = (sek % 3600) / 60;
             int s = (sek % 3600) % 60;
-            Console.WriteLine("Tunnit: " + h + " Minuutit: " + m + " Sekunnit: " + s);
+            Console.WriteLine("Tunnit: {0} Minuutit: {1} Sekunnit: {2}", h, m, s);
         }
     }
 }
