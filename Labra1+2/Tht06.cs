@@ -12,7 +12,7 @@ namespace Labra1_2
             int km = int.Parse(Console.ReadLine());
             double kulutus = km * 7.02 / 100;
             double hinta = kulutus * 1.595;
-            Console.WriteLine("Bensaa kuluu {0:0.##} litraa. Kustannus {1:0.##} euroa.", kulutus, hinta);
+            Console.WriteLine("Bensaa kuluu {0} litraa. Kustannus {1} euroa.", kulutus, hinta);
         }
     }
 }
