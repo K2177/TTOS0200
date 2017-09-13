@@ -8,7 +8,7 @@ namespace Labra1_2
         {
             // Tee ohjelma, joka tulostaa käyttäjän antamaa lukua (1, 2 tai 3) vastaavan luvun sanana (yksi, kaksi tai kolme). Jos käyttäjä syöttää jonkin muun luvun, tulee näytölle tulostaa teksti: "joku muu luku".
 
-            Console.WriteLine("Anna luku: ");
+            Console.Write("Luku: ");
             int luku = int.Parse(Console.ReadLine());
             if (luku == 1)
             {

@@ -8,7 +8,7 @@ namespace Labra1_2
         {
             // Tee ohjelma, jossa kysytään käyttäjältä tämän ikä. Jos ikä on alle 18 vuotta, tulosta "alaikäinen", jos se on 18-65 vuotta, tulosta "aikuinen", muussa tapauksessa tulosta "seniori".
 
-            Console.WriteLine("Ikä: ");
+            Console.Write("Ikä: ");
             int ika = int.Parse(Console.ReadLine());
             if (ika < 18)
             {

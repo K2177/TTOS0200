@@ -48,6 +48,10 @@
     <Compile Include="Tht03.cs" />
     <Compile Include="Tht04.cs" />
     <Compile Include="Tht05.cs" />
+    <Compile Include="Tht06.cs" />
+    <Compile Include="Tht07.cs" />
+    <Compile Include="Tht08.cs" />
+    <Compile Include="Tht09.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

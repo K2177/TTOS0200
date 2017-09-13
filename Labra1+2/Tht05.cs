@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Labra1_2
 {
@@ -12,7 +8,7 @@ namespace Labra1_2
         {
             // Tee ohjelma, joka näyttää annetun sekuntimäärän tunteina, minuutteina ja sekunteina. Aikamääre sekuntteina kysytään käyttäjältä.
 
-            Console.WriteLine("Sekunnit: ");
+            Console.Write("Sekunnit: ");
             int sek = int.Parse(Console.ReadLine());
             int h = sek / 3600;
             int m = (sek % 3600) / 60;
