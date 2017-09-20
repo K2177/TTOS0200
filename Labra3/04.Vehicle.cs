@@ -5,9 +5,9 @@ namespace Labra3
     public class Vehicle
     {
         //Ominaisuudet
-        public string Name;
-        public int Speed;
-        public int Tyres;
+        public string Name { get; set; }
+        public int Speed { get; set; }
+        public int Tyres { get; set; }
         //Toiminnot
         public void PrintData()
         {

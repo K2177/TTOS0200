@@ -4,8 +4,8 @@ namespace Labra3
 {
     public class Kiuas
     {
-        public bool Virta;
-        public int Lampotila;
+        public bool Virta { get; set; }
+        public int Lampotila { get; set; }
         //Kosteus 0-100%
         float kosteus;
         public float Kosteus

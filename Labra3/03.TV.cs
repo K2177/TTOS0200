@@ -4,8 +4,8 @@ namespace Labra3
 {
     public class TV
     {
-        public bool Virta;
-        public bool Aani;
+        public bool Virta { get; set; }
+        public bool Aani { get; set; }
         //Kanavat 1-999
         int kanava;
         public int Kanava
