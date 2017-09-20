@@ -4,9 +4,9 @@ namespace Labra3
 {
     public class Pesukone
     {
-        public bool Virta { get; set; }
-        public bool Luukku { get; set; }
-        public bool Vesi { get; set; }
+        public bool Virta;
+        public bool Luukku;
+        public bool Vesi;
     }
     public class Tht2
     {

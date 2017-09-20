@@ -4,8 +4,8 @@ namespace Labra3
 {
     public class TV
     {
-        public bool Virta { get; set; }
-        public bool Aani { get; set; }
+        public bool Virta;
+        public bool Aani;
         //Kanavat 1-999
         int kanava;
         public int Kanava
@@ -23,7 +23,7 @@ namespace Labra3
     }
     public class Tht3
     {
-        static void Main()
+        static void Tehtava3()
         {
             TV tv = new TV();
             Console.Write("Onko TV päällä? (0/1): ");

@@ -45,6 +45,7 @@
     <Compile Include="01.Kiuas.cs" />
     <Compile Include="02.Pesukone.cs" />
     <Compile Include="03.TV.cs" />
+    <Compile Include="04.Vehicle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
