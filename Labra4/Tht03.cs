@@ -24,7 +24,7 @@ namespace Labra4
     }
     class Tht03
     {
-        static void Main()
+        static void Tehtava3()
         {
             Vahvistin vahvistin = new Vahvistin();
             do
