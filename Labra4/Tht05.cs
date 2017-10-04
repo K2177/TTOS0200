@@ -54,7 +54,7 @@ namespace Labra4
     }
     class Tht05
     {
-        static void Main()
+        static void Tehtava5()
         {
             Vehicles bike1 = new Bikes("Jopo", "Street", 2016, "Blue", "False", "");
             Console.WriteLine("Bike info\n" + bike1);
