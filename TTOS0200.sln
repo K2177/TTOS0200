@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.16
+VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello", "Hello\Hello.csproj", "{43D3A9D9-D831-46CD-BE33-1DE6770DB406}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labra3", "Labra3\Labra3.csproj", "{6F6102A7-E8A3-4062-A9CA-CE24BDB4327A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labra4", "Labra4\Labra4.csproj", "{639241A3-DC2E-4A8F-98F6-41E96B4DED07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labra6", "Labra6\Labra6.csproj", "{9E9EC7F5-94FC-41A0-AC9C-DB31DCF644BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{639241A3-DC2E-4A8F-98F6-41E96B4DED07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{639241A3-DC2E-4A8F-98F6-41E96B4DED07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{639241A3-DC2E-4A8F-98F6-41E96B4DED07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E9EC7F5-94FC-41A0-AC9C-DB31DCF644BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E9EC7F5-94FC-41A0-AC9C-DB31DCF644BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E9EC7F5-94FC-41A0-AC9C-DB31DCF644BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E9EC7F5-94FC-41A0-AC9C-DB31DCF644BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
