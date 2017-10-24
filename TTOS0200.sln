@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.16
+VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello", "Hello\Hello.csproj", "{43D3A9D9-D831-46CD-BE33-1DE6770DB406}"
 EndProject
@@ -16,6 +16,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labra6", "Labra6\Labra6.csproj", "{9E9EC7F5-94FC-41A0-AC9C-DB31DCF644BF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniASIO", "MiniASIO\MiniASIO.csproj", "{58627DA7-6417-4DE3-A931-C54467A0EDED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labra7", "Labra7\Labra7.csproj", "{74089BFF-31F2-48FF-BFB1-AD7A14B60600}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{58627DA7-6417-4DE3-A931-C54467A0EDED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58627DA7-6417-4DE3-A931-C54467A0EDED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58627DA7-6417-4DE3-A931-C54467A0EDED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74089BFF-31F2-48FF-BFB1-AD7A14B60600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74089BFF-31F2-48FF-BFB1-AD7A14B60600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74089BFF-31F2-48FF-BFB1-AD7A14B60600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74089BFF-31F2-48FF-BFB1-AD7A14B60600}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
