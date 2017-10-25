@@ -6,14 +6,14 @@ namespace Labra7
     class CD
     {
         #region PROPERTIES
-        public string Nimi { get; set; }
+        public string Name { get; set; }
         public string Artist { get; set; }
         public string Songs { get; set; }
         #endregion
         #region CONSTRUCTORS
-        public CD(string nimi, string artist, string songs)
+        public CD(string name, string artist, string songs)
         {
-            Nimi = nimi;
+            Name = name;
             Artist = artist;
             Songs = songs;
         }
@@ -21,7 +21,7 @@ namespace Labra7
         #region METHODS
         public override string ToString()
         {
-            return string.Format("Levy: {0}\nArtisti: {1}\nKappaleet: {2}\n", Nimi, Artist, Songs);
+            return string.Format("Levy: {0}\nArtisti: {1}\nKappaleet: {2}\n", Name, Artist, Songs);
         }
         #endregion
     }
