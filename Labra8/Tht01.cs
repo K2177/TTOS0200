@@ -9,7 +9,7 @@ namespace Labra8
 {
     class Tht01
     {
-        static void Main()
+        static void Tehtava1()
         {
             //KÄYTTÄKÄÄ AINA TRY-CATCHIA
             try
